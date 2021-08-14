@@ -1,16 +1,55 @@
-### Hi there 👋
+#### My Name is Michael Steinert
 
-<!--
-**michael-steinert-repository/michael-steinert-repository** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Full Stack Software Developer, Blockchain Developer and Web3 Supporter
+- I am looking to use Coding to create, innovate, add value and solve Problems
 
-Here are some ideas to get you started:
+#### My Areas of Interest:
+| Software Development | Blockchain           | Web Development      | Domain driven Design |
+| -------------------- | -------------------- | -------------------- | -------------------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- - -
+
+<p>
+You can reach me:
+<a href="https://www.linkedin.com/in/michael-steinert-92207920b/"><img height="30" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628977206/linkedin_z4pae0.png"></a>&nbsp;&nbsp;
+<a href="http://steinert-michael.de/"><img height="30" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628977242/web_j6zo1m.png"></a>
+</p>
+
+- - -
+
+#### I know or am learning the following Programming Languages:
+
+| Java            | Kotlin          | JavaScript      | TypeScript      | Solidity        | Python         |
+| --------------- | --------------- | --------------- | --------------- | --------------- |--------------- |
+
+- - -
+
+#### I am learning or know following Technologies and Tools:
+
+<p>
+<a href="https://spring.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/spring_rt6zwp.jpg"></a>&nbsp;&nbsp;
+
+<a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976281/react.png"></a>&nbsp;&nbsp;
+<a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/redux_zefn23.png"></a>&nbsp;&nbsp;
+
+<a href="https://www.trufflesuite.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/truffle_lljenp.png"></a>&nbsp;&nbsp;
+<a href="https://web3js.readthedocs.io/en/v1.4.0/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/web3_uvfrkk.png"></a>&nbsp;&nbsp;
+<a href="https://ethereum.org/en/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/ethereum_osmlpj.png"></a>&nbsp;&nbsp;
+<a href="https://metamask.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/metamask_yjyvwt.png"></a>&nbsp;&nbsp;
+
+<a href="https://nodejs.org/en/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/nodejs_n9stb7.png"></a>&nbsp;&nbsp;
+<a href="https://www.npmjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/npm_dx5otp.png"></a>&nbsp;&nbsp;
+
+<a href="https://www.liferay.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976593/liferay_biw0ri.png"></a>&nbsp;&nbsp;
+
+<a href="https://getbootstrap.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/bootstrap_qpza47.jpg"></a>&nbsp;&nbsp;
+
+<a href="https://www.mongodb.com/ "><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/mongo_rch2jl.png"></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628977478/postgres_ubs3bw.png"></a>&nbsp;&nbsp;
+
+<a href="https://expressjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/express_c06wth.png"></a>&nbsp;&nbsp;
+
+<a href="https://graphql.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/graphql_zeqfx1.png"></a>
+</p>
+
+- - -
