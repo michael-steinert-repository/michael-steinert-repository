@@ -28,10 +28,10 @@ You can reach me:
 
 <p>
 <a href="https://spring.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/spring_rt6zwp.jpg"></a>&nbsp;&nbsp;
-
+  
 <a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976281/react.png"></a>&nbsp;&nbsp;
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/redux_zefn23.png"></a>&nbsp;&nbsp;
-
+  
 <a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;  
 <a href="https://www.trufflesuite.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/truffle_lljenp.png"></a>&nbsp;&nbsp;
 <a href="https://web3js.readthedocs.io/en/v1.4.0/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/web3_uvfrkk.png"></a>&nbsp;&nbsp;
