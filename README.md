@@ -4,8 +4,8 @@
 - I am looking to use Coding to create, innovate, add value and solve Problems
 
 #### My Areas of Interest:
-| Software Development | Blockchain           | Web Development      | Domain driven Design |
-| -------------------- | -------------------- | -------------------- | -------------------- |
+| Software Development | Blockchain | Web Development | Domain driven Design | Decentralized Application |
+| --- | --- | --- | --- | --- |
 
 - - -
 
@@ -19,8 +19,8 @@ You can reach me:
 
 #### I know or am learning the following Programming Languages:
 
-| Java            | Kotlin          | JavaScript      | TypeScript      | Solidity        | Python         |
-| --------------- | --------------- | --------------- | --------------- | --------------- |--------------- |
+| Java  | Kotlin | JavaScript | TypeScript | Solidity | Python |
+| --- | ---- | --- | --- | --- |--- |
 
 - - -
 
