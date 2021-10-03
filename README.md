@@ -1,6 +1,6 @@
 #### My Name is Michael Steinert
 
-- Full Stack Software Developer, Blockchain Developer and Web3 Supporter
+- I am a Full Stack Software Developer, Blockchain Developer and Web3 Supporter
 - I am looking to use Coding to create, innovate, add value and solve Problems
 
 #### My Areas of Interest:
@@ -32,6 +32,7 @@ You can reach me:
 <a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976281/react.png"></a>&nbsp;&nbsp;
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/redux_zefn23.png"></a>&nbsp;&nbsp;
 
+<a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;  
 <a href="https://www.trufflesuite.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/truffle_lljenp.png"></a>&nbsp;&nbsp;
 <a href="https://web3js.readthedocs.io/en/v1.4.0/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/web3_uvfrkk.png"></a>&nbsp;&nbsp;
 <a href="https://ethereum.org/en/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/ethereum_osmlpj.png"></a>&nbsp;&nbsp;
