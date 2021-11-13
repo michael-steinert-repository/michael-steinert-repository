@@ -32,6 +32,7 @@ You can reach me:
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/redux_zefn23.png"></a>&nbsp;&nbsp;
 <a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;  
 <a href="https://www.trufflesuite.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/truffle_lljenp.png"></a>&nbsp;&nbsp;
+<a href="https://hardhat.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636808603/hardhat_ny9lyb.png"></a>&nbsp;&nbsp;  
 <a href="https://web3js.readthedocs.io/en/v1.4.0/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/web3_uvfrkk.png"></a>&nbsp;&nbsp;
 <a href="https://ethereum.org/en/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/ethereum_osmlpj.png"></a>&nbsp;&nbsp;
 <a href="https://metamask.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/metamask_yjyvwt.png"></a>&nbsp;&nbsp;
