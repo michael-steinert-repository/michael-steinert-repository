@@ -30,10 +30,14 @@ You can reach me:
 <a href="https://spring.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/spring_rt6zwp.jpg"></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976281/react.png"></a>&nbsp;&nbsp;
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/redux_zefn23.png"></a>&nbsp;&nbsp;
-<a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;  
+<a href="https://archive.jestjs.io/"><img height="45" https://res.cloudinary.com/michael-steinert/image/upload/v1636811676/jest_zbslws.png"></a>&nbsp;&nbsp;
+<a href="https://www.chaijs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811393/chai_bkadc8.png"></a>&nbsp;&nbsp;
+<a href="https://mochajs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811801/mocha_iflfcj.png"></a>&nbsp;&nbsp;
+<a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.trufflesuite.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/truffle_lljenp.png"></a>&nbsp;&nbsp;
-<a href="https://hardhat.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636808603/hardhat_ny9lyb.png"></a>&nbsp;&nbsp;  
-<a href="https://web3js.readthedocs.io/en/v1.4.0/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/web3_uvfrkk.png"></a>&nbsp;&nbsp;
+<a href="https://getwaffle.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811328/waffle_mofris.png"></a>&nbsp;&nbsp;
+<a href="https://hardhat.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636808603/hardhat_ny9lyb.png"></a>&nbsp;&nbsp;
+<a href="https://web3js.readthedocs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/web3_uvfrkk.png"></a>&nbsp;&nbsp;
 <a href="https://ethereum.org/en/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/ethereum_osmlpj.png"></a>&nbsp;&nbsp;
 <a href="https://metamask.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/metamask_yjyvwt.png"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/en/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/nodejs_n9stb7.png"></a>&nbsp;&nbsp;
