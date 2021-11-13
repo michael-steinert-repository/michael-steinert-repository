@@ -38,7 +38,9 @@ You can reach me:
 <a href="https://getwaffle.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811328/waffle_mofris.png"></a>&nbsp;&nbsp;
 <a href="https://hardhat.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636808603/hardhat_ny9lyb.png"></a>&nbsp;&nbsp;
 <a href="https://web3js.readthedocs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/web3_uvfrkk.png"></a>&nbsp;&nbsp;
-<a href="https://ethereum.org/en/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/ethereum_osmlpj.png"></a>&nbsp;&nbsp;
+<a href="https://ethereum.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/ethereum_osmlpj.png"></a>&nbsp;&nbsp;
+<a href="https://polygon.technology/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812096/polygon_c68ucp.png"></a>&nbsp;&nbsp;
+<a href="https://www.binance.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812207/binance_dezdmb.png"></a>&nbsp;&nbsp;
 <a href="https://metamask.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/metamask_yjyvwt.png"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/en/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/nodejs_n9stb7.png"></a>&nbsp;&nbsp;
 <a href="https://www.npmjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/npm_dx5otp.png"></a>&nbsp;&nbsp;
