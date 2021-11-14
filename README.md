@@ -30,7 +30,7 @@ You can reach me:
 <a href="https://spring.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/spring_rt6zwp.jpg"></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976281/react.png"></a>&nbsp;&nbsp;
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/redux_zefn23.png"></a>&nbsp;&nbsp;
-<a href="https://archive.jestjs.io/"><img height="45" https://res.cloudinary.com/michael-steinert/image/upload/v1636811676/jest_zbslws.png"></a>&nbsp;&nbsp;
+<a href="https://jestjs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811676/jest_zbslws.png"></a>&nbsp;&nbsp;
 <a href="https://www.chaijs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811393/chai_bkadc8.png"></a>&nbsp;&nbsp;
 <a href="https://mochajs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811801/mocha_iflfcj.png"></a>&nbsp;&nbsp;
 <a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;
