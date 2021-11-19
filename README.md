@@ -45,10 +45,21 @@
 <a href="https://mui.com/"><img height="45" width="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257796/materialui_if5r2d.png"></a>&nbsp;&nbsp;
 <a href="https://ant.design/"><img height="45" width="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637330349/antdesign_lvg2wr.jpg"></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/bootstrap_qpza47.jpg"></a>&nbsp;&nbsp;
-<a href="https://nodejs.org/en/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/nodejs_n9stb7.png"></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/nodejs_n9stb7.png"></a>&nbsp;&nbsp;
 <a href="https://www.npmjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/npm_dx5otp.png"></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/ "><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/mongo_rch2jl.png"></a>&nbsp;&nbsp;
+</p>
+
+<p>
+<a href="https://www.mongodb.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/mongo_rch2jl.png"></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628977478/postgres_ubs3bw.png"></a>
+</p>
+
+<p>
+<a href="https://aws.amazon.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331229/aws_i1text.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331344/docker_iow2nu.png"></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331377/kubernetes_s8evv4.png"></a>&nbsp;&nbsp;
+<a href="https://www.terraform.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331422/terraform_v7ikx5.png"></a>&nbsp;&nbsp;
+<a href="https://www.ansible.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331476/ansible_mx7pdi.png"></a>
 </p>
 
 <p>
@@ -63,7 +74,7 @@
 <a href="https://getwaffle.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811328/waffle_mofris.png"></a>&nbsp;&nbsp;
 <a href="https://hardhat.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636808603/hardhat_ny9lyb.png"></a>&nbsp;&nbsp;
 <a href="https://docs.ethers.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329906/ethersjs_trhxqg.png"></a>&nbsp;&nbsp;
-<a href="https://web3js.readthedocs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329871/web3js_a41vbl.jpg"></a>&nbsp;&nbsp;
+<a href="https://web3js.readthedocs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329871/web3js_a41vbl.jpg"></a>
 </p>
 
 - - -
