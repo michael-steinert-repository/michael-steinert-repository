@@ -66,6 +66,7 @@
 <a href="https://ethereum.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329811/ethereum_j3d8oo.png"></a>&nbsp;&nbsp;
 <a href="https://polygon.technology/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812096/polygon_c68ucp.png"></a>&nbsp;&nbsp;
 <a href="https://www.binance.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812207/binance_dezdmb.png"></a>&nbsp;&nbsp;
+<a href="https://chain.link/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637432505/chainlink_kmryif.png"></a>&nbsp;&nbsp;
 <a href="https://infura.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812989/infura_npxxc3.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.alchemy.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636813066/alchemy_omub1z.png"></a>&nbsp;&nbsp;
 <a href="https://metamask.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/metamask_yjyvwt.png"></a>&nbsp;&nbsp;
