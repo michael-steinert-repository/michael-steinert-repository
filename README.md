@@ -25,8 +25,8 @@
 
 #### I know or am learning the following Programming Languages:
 
-| Java  | Kotlin | JavaScript | TypeScript | Solidity | Python |
-| --- | ---- | --- | --- | --- |--- |
+| Java  | Kotlin | JavaScript | TypeScript | Solidity | Python | Rust |
+| --- | --- | --- | --- | --- | --- | --- |
 
 - - -
 
@@ -38,6 +38,7 @@
 <a href="https://expressjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/express_c06wth.png"></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976281/react.png"></a>&nbsp;&nbsp;
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/redux_zefn23.png"></a>&nbsp;&nbsp;
+<a href="https://nextjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252109/nextjs_hiyt47.png"></a>&nbsp;&nbsp;
 <a href="https://graphql.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/graphql_zeqfx1.png"></a>&nbsp;&nbsp;
 <a href="https://jestjs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811676/jest_zbslws.png"></a>&nbsp;&nbsp;
 <a href="https://www.chaijs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811393/chai_bkadc8.png"></a>&nbsp;&nbsp;
@@ -63,6 +64,7 @@
 </p>
 
 <p>
+<a href="https://solana.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252284/solana_nrfm6p.jpg"></a>&nbsp;&nbsp;
 <a href="https://ethereum.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329811/ethereum_j3d8oo.png"></a>&nbsp;&nbsp;
 <a href="https://arbitrum.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1638948719/arbitrum_shwmtr.png"></a>&nbsp;&nbsp;
 <a href="https://polygon.technology/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812096/polygon_c68ucp.png"></a>&nbsp;&nbsp;
