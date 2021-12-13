@@ -64,11 +64,11 @@
 </p>
 
 <p>
-<a href="https://solana.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252284/solana_nrfm6p.jpg"></a>&nbsp;&nbsp;
 <a href="https://ethereum.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329811/ethereum_j3d8oo.png"></a>&nbsp;&nbsp;
 <a href="https://arbitrum.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1638948719/arbitrum_shwmtr.png"></a>&nbsp;&nbsp;
 <a href="https://polygon.technology/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812096/polygon_c68ucp.png"></a>&nbsp;&nbsp;
 <a href="https://www.binance.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812207/binance_dezdmb.png"></a>&nbsp;&nbsp;
+<a href="https://solana.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639394909/solana_ik4l1a.jpg"></a>&nbsp;&nbsp;
 <a href="https://chain.link/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637432505/chainlink_kmryif.png"></a>&nbsp;&nbsp;
 <a href="https://infura.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812989/infura_npxxc3.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.alchemy.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636813066/alchemy_omub1z.png"></a>&nbsp;&nbsp;
@@ -77,6 +77,7 @@
 <a href="https://www.trufflesuite.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252616/truffle_cjb53z.png"></a>&nbsp;&nbsp;
 <a href="https://getwaffle.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811328/waffle_mofris.png"></a>&nbsp;&nbsp;
 <a href="https://hardhat.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636808603/hardhat_ny9lyb.png"></a>&nbsp;&nbsp;
+<a href="https://project-serum.github.io/anchor/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639394764/anchor_a6qzcp.png"></a>&nbsp;&nbsp;
 <a href="https://docs.ethers.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329906/ethersjs_trhxqg.png"></a>&nbsp;&nbsp;
 <a href="https://web3js.readthedocs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329871/web3js_a41vbl.jpg"></a>
 </p>
