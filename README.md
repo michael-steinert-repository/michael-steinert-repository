@@ -79,7 +79,8 @@
 <a href="https://hardhat.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636808603/hardhat_ny9lyb.png"></a>&nbsp;&nbsp;
 <a href="https://project-serum.github.io/anchor/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639394764/anchor_a6qzcp.png"></a>&nbsp;&nbsp;
 <a href="https://docs.ethers.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329906/ethersjs_trhxqg.png"></a>&nbsp;&nbsp;
-<a href="https://web3js.readthedocs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329871/web3js_a41vbl.jpg"></a>
+<a href="https://web3js.readthedocs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329871/web3js_a41vbl.jpg"></a>&nbsp;&nbsp;
+<a href="https://thegraph.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639639599/the-graph_wo8irh.jpg"></a>
 </p>
 
 - - -
