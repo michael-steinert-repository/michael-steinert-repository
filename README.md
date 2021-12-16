@@ -73,6 +73,7 @@
 <a href="https://infura.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812989/infura_npxxc3.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.alchemy.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636813066/alchemy_omub1z.png"></a>&nbsp;&nbsp;
 <a href="https://metamask.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/metamask_yjyvwt.png"></a>&nbsp;&nbsp;
+<a href="https://phantom.app/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639690363/phantom_m8rd6e.png"></a>&nbsp;&nbsp;
 <a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.trufflesuite.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252616/truffle_cjb53z.png"></a>&nbsp;&nbsp;
 <a href="https://getwaffle.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811328/waffle_mofris.png"></a>&nbsp;&nbsp;
