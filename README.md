@@ -36,6 +36,7 @@
 <a href="https://spring.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/spring_rt6zwp.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.liferay.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639395370/liferay_xjwxhs.png"></a>&nbsp;&nbsp;
 <a href="https://expressjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639395277/express_p9uzht.png"></a>&nbsp;&nbsp;
+<a href="https://vuejs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778240/vuejs_hxjinh.png"></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976281/react.png"></a>&nbsp;&nbsp;
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252450/redux_do0gmp.png"></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252109/nextjs_hiyt47.png"></a>&nbsp;&nbsp;
@@ -45,6 +46,7 @@
 <a href="https://mochajs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811801/mocha_iflfcj.png"></a>&nbsp;&nbsp;
 <a href="https://mui.com/"><img height="45" width="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257796/materialui_if5r2d.png"></a>&nbsp;&nbsp;
 <a href="https://ant.design/"><img height="45" width="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637330349/antdesign_lvg2wr.jpg"></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778141/tailwindcss_qempmr.png"></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/bootstrap_qpza47.jpg"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/nodejs_n9stb7.png"></a>&nbsp;&nbsp;
 <a href="https://www.npmjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/npm_dx5otp.png"></a>&nbsp;&nbsp;
