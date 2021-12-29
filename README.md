@@ -83,7 +83,7 @@
 <a href="https://docs.ethers.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329906/ethersjs_trhxqg.png"></a>&nbsp;&nbsp;
 <a href="https://web3js.readthedocs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329871/web3js_a41vbl.jpg"></a>&nbsp;&nbsp;
 <a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;
-<a href="https://thirdweb.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640779092/thirdweb_e26xo4.jpg"></a>&nbsp;&nbsp;
+<a href="https://thirdweb.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640779253/thirdweb_piudw2.jpg"></a>&nbsp;&nbsp;
 <a href="https://thegraph.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639639599/the-graph_wo8irh.jpg"></a>
 </p>
 
