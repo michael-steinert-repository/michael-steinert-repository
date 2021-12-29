@@ -35,7 +35,7 @@
 <p>
 <a href="https://spring.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/spring_rt6zwp.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.liferay.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639395370/liferay_xjwxhs.png"></a>&nbsp;&nbsp;
-<a href="https://expressjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639395277/express_p9uzht.png"></a>&nbsp;&nbsp;
+<a href="https://expressjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778747/express_aygnjq.png"></a>&nbsp;&nbsp;
 <a href="https://vuejs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778240/vuejs_hxjinh.png"></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976281/react.png"></a>&nbsp;&nbsp;
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252450/redux_do0gmp.png"></a>&nbsp;&nbsp;
