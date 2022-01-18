@@ -54,7 +54,7 @@
 
 <p>
 <a href="https://www.mongodb.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/mongo_rch2jl.png"></a>&nbsp;&nbsp;
-<a href="https://redis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1642531227/redis_whc049.png"></a>&nbsp;&nbsp;
+<a href="https://redis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1642531334/redis_xa18jk.png"></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628977478/postgres_ubs3bw.png"></a>
 </p>
 
