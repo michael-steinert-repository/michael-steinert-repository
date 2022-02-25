@@ -44,6 +44,7 @@
 <a href="https://jestjs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811676/jest_zbslws.png"></a>&nbsp;&nbsp;
 <a href="https://www.chaijs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811393/chai_bkadc8.png"></a>&nbsp;&nbsp;
 <a href="https://mochajs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811801/mocha_iflfcj.png"></a>&nbsp;&nbsp;
+<a href="https://www.cypress.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1645805910/cypress_ds0bug.png"></a>&nbsp;&nbsp;
 <a href="https://mui.com/"><img height="45" width="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257796/materialui_if5r2d.png"></a>&nbsp;&nbsp;
 <a href="https://ant.design/"><img height="45" width="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637330349/antdesign_lvg2wr.jpg"></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778141/tailwindcss_qempmr.png"></a>&nbsp;&nbsp;
