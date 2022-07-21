@@ -45,8 +45,10 @@
 <a href="https://vuejs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778240/vuejs_hxjinh.png"></a>&nbsp;&nbsp;
 
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252450/redux_do0gmp.png"></a>&nbsp;&nbsp;
+<a href="https://rxjs.dev/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1658419225/rxjs_cmuhmn.png"></a>
 
 <a href="https://www.npmjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/npm_dx5otp.png"></a>&nbsp;&nbsp;
+<a href="https://maven.apache.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1658419314/maven_oqi3t1.png"></a>
 
 <a href="https://jestjs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811676/jest_zbslws.png"></a>&nbsp;&nbsp;
 <a href="https://www.chaijs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811393/chai_bkadc8.png"></a>&nbsp;&nbsp;
