@@ -4,10 +4,11 @@
 - I am looking to use Coding to create, innovate, add value and solve Problems
 
 #### My Areas of Interest:
-| Software Development | Blockchain | Web Development | Domain driven Design | Decentralized Application |
-| --- | --- | --- | --- | --- |
 
-- - -
+| Software Development | Blockchain | Web Development | Domain driven Design | Decentralized Application |
+| -------------------- | ---------- | --------------- | -------------------- | ------------------------- |
+
+---
 
 #### You can reach me:
 
@@ -21,14 +22,14 @@
 </a>
 </p>
 
-- - -
+---
 
 #### I know or am learning the following Programming Languages:
 
-| Java  | Kotlin | JavaScript | TypeScript | Solidity | Python | Rust |
-| --- | --- | --- | --- | --- | --- | --- |
+| Java | Kotlin | JavaScript | TypeScript | Solidity | Python | Rust |
+| ---- | ------ | ---------- | ---------- | -------- | ------ | ---- |
 
-- - -
+---
 
 #### I am learning or know following Technologies and Tools:
 
@@ -59,6 +60,7 @@
 <a href="https://ant.design/"><img height="45" width="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637330349/antdesign_lvg2wr.jpg"></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778141/tailwindcss_qempmr.png"></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778426/bootstrap_r4q3ji.png"></a>
+
 </p>
 
 <p>
@@ -97,4 +99,4 @@
 <a href="https://thegraph.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639639599/the-graph_wo8irh.jpg"></a>
 </p>
 
-- - -
+---
