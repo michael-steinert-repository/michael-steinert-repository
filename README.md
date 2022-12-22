@@ -10,20 +10,6 @@
 
 ---
 
-#### You can reach me:
-
-<p>
-<a href="https://www.linkedin.com/in/michael-steinert-92207920b/">
-  <img height="30" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628977206/linkedin_z4pae0.png">
-</a>
-&nbsp;&nbsp;
-<a href="http://steinert-michael.de/">
-  <img height="30" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628977242/web_j6zo1m.png">
-</a>
-</p>
-
----
-
 #### I know or am learning the following Programming Languages:
 
 | Java | Kotlin | JavaScript | TypeScript | Solidity | Python | Rust |
