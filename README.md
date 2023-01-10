@@ -27,25 +27,31 @@
 <a href="https://expressjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778747/express_aygnjq.png"></a>&nbsp;&nbsp;
 <a href="https://graphql.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/graphql_zeqfx1.png"></a>
 </p>
+
+<p>
 <a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976281/react.png"></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252109/nextjs_hiyt47.png"></a>&nbsp;&nbsp;
-<a href="https://angular.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1655817918/angular_ehm4rj.png"></a>&nbsp;&nbsp;
-<a href="https://vuejs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778240/vuejs_hxjinh.png"></a>&nbsp;&nbsp;
+<a href="https://angular.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1655817918/angular_ehm4rj.png"></a>
+</p>
 
+<p>
 <a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252450/redux_do0gmp.png"></a>&nbsp;&nbsp;
 <a href="https://rxjs.dev/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1658419225/rxjs_cmuhmn.png"></a>
+</p>
 
+<p>
 <a href="https://jestjs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811676/jest_zbslws.png"></a>&nbsp;&nbsp;
 <a href="https://www.chaijs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811393/chai_bkadc8.png"></a>&nbsp;&nbsp;
 <a href="https://mochajs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636811801/mocha_iflfcj.png"></a>&nbsp;&nbsp;
 <a href="https://www.cypress.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1645805910/cypress_ds0bug.png"></a>&nbsp;&nbsp;
 <a href="https://playwright.dev/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1666085436/playwright_uiraqz.png"></a>
+</p>
 
+<p>
 <a href="https://mui.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257796/materialui_if5r2d.png"></a>&nbsp;&nbsp;
 <a href="https://ant.design/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637330349/antdesign_lvg2wr.jpg"></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778141/tailwindcss_qempmr.png"></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778426/bootstrap_r4q3ji.png"></a>
-
 </p>
 
 <p>
@@ -83,5 +89,3 @@
 <a href="https://thirdweb.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640779253/thirdweb_piudw2.jpg"></a>&nbsp;&nbsp;
 <a href="https://thegraph.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639639599/the-graph_wo8irh.jpg"></a>
 </p>
-
----
