@@ -22,7 +22,6 @@
 <p>
 <a href="https://spring.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/spring_rt6zwp.jpg"></a>&nbsp;&nbsp;
 <a href="https://quarkus.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1665391391/quarkus_tdyagu.png"></a>&nbsp;&nbsp;
-<a href="https://www.liferay.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639395370/liferay_xjwxhs.png"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/nodejs_n9stb7.png"></a>&nbsp;&nbsp;
 <a href="https://expressjs.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778747/express_aygnjq.png"></a>&nbsp;&nbsp;
 <a href="https://graphql.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/graphql_zeqfx1.png"></a>
