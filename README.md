@@ -86,5 +86,6 @@
 <a href="https://openzeppelin.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1646743399/openzeppelin_g595fb.jpg"></a>&nbsp;&nbsp;
 <a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;
 <a href="https://thirdweb.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640779253/thirdweb_piudw2.jpg"></a>&nbsp;&nbsp;
-<a href="https://thegraph.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639639599/the-graph_wo8irh.jpg"></a>
+<a href="https://thegraph.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639639599/the-graph_wo8irh.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.lens.xyz/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1678442541/lens-protocol_zdqns5.png"></a>
 </p>
