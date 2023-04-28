@@ -5,8 +5,8 @@
 
 #### My Areas of Interest:
 
-| Software Development | Data Economics | Blockchain | Web Development | Domain-driven Design | Decentralized Application |
-| -------------------- | -------------- | ---------- | --------------- | -------------------- | ------------------------- |
+| Software Development | Data Economy | Blockchain | Web Development | Domain-driven Design | Decentralized Application |
+| -------------------- | ------------ | ---------- | --------------- | -------------------- | ------------------------- |
 
 ---
 
