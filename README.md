@@ -10,14 +10,14 @@
 
 ---
 
-#### I know or am learning the following Programming Languages:
+#### I know and am learning the following Programming Languages:
 
 | Java | Kotlin | JavaScript | TypeScript | Solidity | Rust |
 | ---- | ------ | ---------- | ---------- | -------- | ---- |
 
 ---
 
-#### I am learning or know following Technologies and Tools:
+#### I know and am learning the following Frameworks and Tools:
 
 <p>
 <a href="https://spring.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976390/spring_rt6zwp.jpg"></a>&nbsp;&nbsp;
