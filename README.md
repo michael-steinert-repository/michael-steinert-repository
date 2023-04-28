@@ -1,19 +1,19 @@
 #### My Name is Michael Steinert
 
-- I am a Full Stack Software Developer, Blockchain Developer and Web3 Supporter
-- I am looking to use Coding to create, innovate, add value and solve Problems
+- As a Researcher in the Field of Data Exchange, Data Spaces and Data Economics, I work on innovative Solutions for the sovereign and secure Use of Data
+- I am also a Full Stack and Blockchain Developer and a Web3 Supporter
 
 #### My Areas of Interest:
 
-| Software Development | Blockchain | Web Development | Domain driven Design | Decentralized Application |
-| -------------------- | ---------- | --------------- | -------------------- | ------------------------- |
+| Software Development | Data Economics | Blockchain | Web Development | Domain driven Design | Decentralized Application |
+| -------------------- | -------------- | ---------- | --------------- | -------------------- | ------------------------- |
 
 ---
 
 #### I know or am learning the following Programming Languages:
 
-| Java | Kotlin | JavaScript | TypeScript | Solidity | Python | Rust |
-| ---- | ------ | ---------- | ---------- | -------- | ------ | ---- |
+| Java | Kotlin | JavaScript | TypeScript | Solidity | Rust |
+| ---- | ------ | ---------- | ---------- | -------- | ---- |
 
 ---
 
