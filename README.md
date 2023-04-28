@@ -49,8 +49,7 @@
 <p>
 <a href="https://mui.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257796/materialui_if5r2d.png"></a>&nbsp;&nbsp;
 <a href="https://ant.design/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637330349/antdesign_lvg2wr.jpg"></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778141/tailwindcss_qempmr.png"></a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778426/bootstrap_r4q3ji.png"></a>
+<a href="https://tailwindcss.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640778141/tailwindcss_qempmr.png"></a>
 </p>
 
 <p>
