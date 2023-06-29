@@ -5,8 +5,8 @@
 
 #### My Areas of Interest:
 
-| Software Development | Data Economy | Blockchain | Web Development | Domain-driven Design | Decentralized Application |
-| -------------------- | ------------ | ---------- | --------------- | -------------------- | ------------------------- |
+| Software Development | Data Economy | Blockchain | Domain-driven Design | Decentralized Application |
+| -------------------- | ------------ | ---------- | -------------------- | ------------------------- |
 
 ---
 
@@ -60,8 +60,15 @@
 
 <p>
 <a href="https://aws.amazon.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331229/aws_i1text.jpg"></a>&nbsp;&nbsp;
+<a href="https://azure.microsoft.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1688033522/azure_vebsji.png"></a>
+</p>
+
+<p>
 <a href="https://www.docker.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331344/docker_iow2nu.png"></a>&nbsp;&nbsp;
-<a href="https://kubernetes.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331377/kubernetes_s8evv4.png"></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331377/kubernetes_s8evv4.png"></a>
+</p>
+
+<p>
 <a href="https://www.terraform.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331422/terraform_v7ikx5.png"></a>&nbsp;&nbsp;
 <a href="https://www.ansible.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637331476/ansible_mx7pdi.png"></a>
 </p>
@@ -70,12 +77,18 @@
 <a href="https://ethereum.org/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329811/ethereum_j3d8oo.png"></a>&nbsp;&nbsp;
 <a href="https://arbitrum.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1638948719/arbitrum_shwmtr.png"></a>&nbsp;&nbsp;
 <a href="https://polygon.technology/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812096/polygon_c68ucp.png"></a>&nbsp;&nbsp;
-<a href="https://solana.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639394909/solana_ik4l1a.jpg"></a>&nbsp;&nbsp;
+<a href="https://solana.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639394909/solana_ik4l1a.jpg"></a>
+</p>
+
+<p>
 <a href="https://chain.link/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637432505/chainlink_kmryif.png"></a>&nbsp;&nbsp;
 <a href="https://infura.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636812989/infura_npxxc3.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.alchemy.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1636813066/alchemy_omub1z.png"></a>&nbsp;&nbsp;
-<a href="https://metamask.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1628976389/metamask_yjyvwt.png"></a>&nbsp;&nbsp;
-<a href="https://phantom.app/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639690363/phantom_m8rd6e.png"></a>&nbsp;&nbsp;
+<a href="https://thegraph.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639639599/the-graph_wo8irh.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.lens.xyz/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1678442541/lens-protocol_zdqns5.png"></a>
+</p>
+
+<p>
 <a href="https://docs.ethers.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329906/ethersjs_trhxqg.png"></a>&nbsp;&nbsp;
 <a href="https://web3js.readthedocs.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1637329871/web3js_a41vbl.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.trufflesuite.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639252616/truffle_cjb53z.png"></a>&nbsp;&nbsp;
@@ -84,7 +97,5 @@
 <a href="https://project-serum.github.io/anchor/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639394764/anchor_a6qzcp.png"></a>&nbsp;&nbsp;
 <a href="https://openzeppelin.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1646743399/openzeppelin_g595fb.jpg"></a>&nbsp;&nbsp;
 <a href="https://moralis.io/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1633257050/moralis_e8wrlr.jpg"></a>&nbsp;&nbsp;
-<a href="https://thirdweb.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640779253/thirdweb_piudw2.jpg"></a>&nbsp;&nbsp;
-<a href="https://thegraph.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1639639599/the-graph_wo8irh.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.lens.xyz/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1678442541/lens-protocol_zdqns5.png"></a>
+<a href="https://thirdweb.com/"><img height="45" src="https://res.cloudinary.com/michael-steinert/image/upload/v1640779253/thirdweb_piudw2.jpg"></a>
 </p>
