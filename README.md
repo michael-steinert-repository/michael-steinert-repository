@@ -12,8 +12,8 @@
 
 #### I know and am learning the following Programming Languages:
 
-| Java | Kotlin | JavaScript | TypeScript | Solidity | Rust |
-| ---- | ------ | ---------- | ---------- | -------- | ---- |
+| Java | Kotlin | JavaScript | TypeScript | Solidity | Rust | Go |
+| ---- | ------ | ---------- | ---------- | -------- | ---- | -- |
 
 ---
 
